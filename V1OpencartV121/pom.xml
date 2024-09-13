@@ -1,16 +1,46 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>V1OpencartV121</groupId>
-  <artifactId>V1OpencartV121</artifactId>
+  <groupId>gsh</groupId>
+  <artifactId>gshdemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+ <build>
+    <!-- To define the plugin version in your parent POM -->
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-compiler-plugin</artifactId>
+          <version>3.13.0</version>
+        </plugin>
+      
+       <plugin>
+          <groupId>org.apache.maven.plugins</groupId>
+          <artifactId>maven-surefire-plugin</artifactId>
+          <version>3.5.0</version>
+          <configuration>
+			  <suiteXmlFiles>
+				  <suiteXmlFile>testng.xml</suiteXmlFile>
+				  
+			  </suiteXmlFiles>
+		  </configuration>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+ </build>  
+  
+  
+  
   
   <dependencies>
 <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
-    <version>4.23.0</version>
+    <version>4.24.0</version>
 </dependency>
+
+
 	 <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-scratchpad -->
 <dependency>
     <groupId>org.apache.poi</groupId>
@@ -71,13 +101,6 @@
     <groupId>org.slf4j</groupId>
     <artifactId>slf4j-simple</artifactId>
     <version>1.7.36</version>
-</dependency>
-
-<dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>7.8.0</version>
-    <scope>test</scope>
 </dependency>
 
 

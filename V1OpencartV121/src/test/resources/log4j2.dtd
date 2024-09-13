@@ -1,0 +1,22 @@
+<!ELEMENT Configuration (properties,Appenders,Loggers)>
+<!ATTLIST Configuration status NMTOKEN #REQUIRED>
+<!ELEMENT properties (Property)>
+<!ELEMENT Property (#PCDATA)>
+<!ATTLIST Property name NMTOKEN #REQUIRED>
+<!ELEMENT Appenders (Console,RollingFile)>
+<!ELEMENT Console (PatternLayout,SizeBasedTrigerringPolicy)>
+<!ATTLIST Console name NMTOKEN #REQUIRED>
+<!ATTLIST Console target NMTOKEN #REQUIRED>
+<!ELEMENT PatternLayout EMPTY>
+<!ATTLIST PatternLayout pattern CDATA #REQUIRED>
+<!ELEMENT SizeBasedTrigerringPolicy EMPTY>
+<!ATTLIST SizeBasedTrigerringPolicy size NMTOKEN #REQUIRED>
+<!ELEMENT RollingFile (PatternLayout,SizeBasedTrigerringPolicy)>
+<!ATTLIST RollingFile name NMTOKEN #REQUIRED>
+<!ATTLIST RollingFile fileName CDATA #REQUIRED>
+<!ATTLIST RollingFile filePattern CDATA #REQUIRED>
+<!ELEMENT Loggers (Root)>
+<!ELEMENT Root (AppenderRef)>
+<!ATTLIST Root level NMTOKEN #REQUIRED>
+<!ELEMENT AppenderRef EMPTY>
+<!ATTLIST AppenderRef ref NMTOKEN #REQUIRED>

@@ -1,0 +1,530 @@
+2024-08-16 18:52:43 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-08-16 18:52:44 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-08-16 18:52:44 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-08-16 18:52:44 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-08-16 18:52:46 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-08-16 18:52:46 ERROR testCases.TC0001_AccountRegstrationTest - Test failed...
+2024-08-16 18:52:46 DEBUG testCases.TC0001_AccountRegstrationTest - Debug logs....
+2024-08-16 19:38:55 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-08-16 19:38:55 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-08-16 19:38:56 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-08-16 19:38:56 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-08-16 19:38:58 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-08-16 19:38:58 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-08-26 15:33:22 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-08-26 15:34:40 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-08-26 15:39:26 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-08-26 15:41:19 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-08-26 15:45:13 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-08-26 15:45:13 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-08-26 15:45:14 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-08-26 15:45:14 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-08-26 15:45:17 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-08-26 15:45:17 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-08-26 15:48:00 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-08-26 15:48:00 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-08-26 15:48:01 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-08-26 15:48:01 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-08-26 15:48:05 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-08-26 15:48:05 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-08-26 16:03:20 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-08-26 16:03:20 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-08-26 16:03:21 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-08-26 16:03:21 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-08-26 16:03:23 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-08-26 16:03:23 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-08-26 16:04:14 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-08-26 16:04:14 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-08-26 16:04:15 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-08-26 16:04:15 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-08-26 16:04:17 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-08-26 16:04:17 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-08-26 17:08:18 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-08-26 17:08:19 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-08-26 17:08:19 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-08-26 17:08:19 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-08-26 17:08:21 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-08-26 17:08:21 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-08-27 14:28:00 INFO  testCases.TC002_LoginTest - *********Starting TC002_LoginTest***********
+2024-08-27 14:28:06 INFO  testCases.TC002_LoginTest - *********Finished TC002_LoginTest***********
+2024-08-27 19:37:33 INFO  testCases.TC002_LoginTest - *********Starting TC002_LoginTest***********
+2024-08-27 19:37:35 INFO  testCases.TC002_LoginTest - *********Finished TC002_LoginTest***********
+2024-09-03 07:54:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:19 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:54:20 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:54:20 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 07:54:23 INFO  testCases.TC003_Loginddt - *******Ending of TC003_LoginDDT********
+2024-09-03 07:54:23 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 07:55:10 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 07:55:57 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 07:56:38 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:38 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:38 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:39 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 07:56:40 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 07:56:40 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 07:56:42 INFO  testCases.TC003_Loginddt - *******Ending of TC003_LoginDDT********
+2024-09-03 07:56:42 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 07:56:45 INFO  testCases.TC003_Loginddt - *******Ending of TC003_LoginDDT********
+2024-09-03 07:56:45 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 07:57:29 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 07:58:15 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 07:59:02 INFO  testCases.TC003_Loginddt - *******Ending of TC003_LoginDDT********
+2024-09-03 07:59:02 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:06:49 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:49 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:49 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:06:51 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:06:52 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:06:54 INFO  testCases.TC003_Loginddt - *******Ending of TC003_LoginDDT********
+2024-09-03 08:06:54 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:07:40 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:07:58 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:07:58 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:07:58 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:00 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:27 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:08:30 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:30 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:30 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:08:31 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:08:32 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:08:34 INFO  testCases.TC003_Loginddt - *******Ending of TC003_LoginDDT********
+2024-09-03 08:08:34 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:09:14 INFO  testCases.TC003_Loginddt - *******Ending of TC003_LoginDDT********
+2024-09-03 08:09:14 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:09:16 INFO  testCases.TC003_Loginddt - *******Ending of TC003_LoginDDT********
+2024-09-03 08:09:21 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:10:06 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:10:06 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:10:27 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:27 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:27 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:10:28 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:10:28 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:10:31 INFO  testCases.TC003_Loginddt - *******Ending of TC003_LoginDDT********
+2024-09-03 08:10:31 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:11:18 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:12:04 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:12:51 INFO  testCases.TC003_Loginddt - *******Ending of TC003_LoginDDT********
+2024-09-03 08:12:51 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:16:16 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:16 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:16 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:17 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-03 08:16:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-03 08:16:18 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-03 08:16:18 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:16:20 INFO  testCases.TC003_Loginddt - *******Ending of TC003_LoginDDT********
+2024-09-03 08:16:20 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:17:07 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:17:53 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-03 08:18:40 INFO  testCases.TC003_Loginddt - *******Ending of TC003_LoginDDT********
+2024-09-03 08:18:40 INFO  testCases.TC003_Loginddt - ******Statcting TC003_LoginDDT********
+2024-09-04 08:15:02 INFO  testCases.TC002_LoginTest - *********Starting TC002_LoginTest***********
+2024-09-04 08:15:04 INFO  testCases.TC002_LoginTest - *********Finished TC002_LoginTest***********
+2024-09-04 08:15:45 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-04 08:15:46 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-04 08:15:46 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-04 08:15:46 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-04 08:15:48 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-04 08:15:48 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-04 08:15:52 INFO  testCases.TC002_LoginTest - *********Starting TC002_LoginTest***********
+2024-09-04 08:15:53 INFO  testCases.TC002_LoginTest - *********Finished TC002_LoginTest***********
+2024-09-04 09:02:51 INFO  testCases.TC002_LoginTest - *********Starting TC002_LoginTest***********
+2024-09-04 09:02:52 INFO  testCases.TC002_LoginTest - *********Finished TC002_LoginTest***********
+2024-09-06 07:46:32 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-06 07:46:33 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-06 07:46:34 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-06 07:46:34 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-06 07:46:36 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-06 07:46:36 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-06 07:54:22 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-06 07:54:22 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-06 07:54:23 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-06 07:54:23 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-06 07:54:25 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-06 07:54:25 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-06 08:01:18 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-06 08:01:18 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-06 08:01:19 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-06 08:01:19 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-06 08:01:20 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-06 08:01:20 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-06 08:43:29 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-06 08:43:30 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-06 08:43:31 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-06 08:43:31 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-06 08:43:32 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-06 08:43:32 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-06 08:46:21 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-06 08:46:21 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-06 08:46:22 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-06 08:46:22 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-06 08:46:23 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-06 08:46:23 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-06 08:50:11 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-06 08:50:11 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-06 08:50:12 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-06 08:50:12 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-06 08:50:13 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-06 08:50:13 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-06 10:01:27 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-06 10:01:27 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-06 10:01:28 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-06 10:01:28 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-06 10:01:29 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-06 10:01:29 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-06 10:04:30 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-06 10:04:30 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-06 10:04:31 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-06 10:04:31 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-06 10:04:33 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-06 10:04:33 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-06 10:13:57 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-06 10:13:57 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-06 10:13:58 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-06 10:13:58 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-06 10:14:00 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-06 10:14:00 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-06 10:15:57 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-06 10:15:57 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-06 10:15:58 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-06 10:15:58 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-06 10:16:00 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-06 10:16:00 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-06 10:19:33 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-06 10:19:33 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-06 10:19:34 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-06 10:19:34 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-06 10:19:36 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-06 10:19:36 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-06 10:34:52 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-06 10:34:52 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-06 10:34:53 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-06 10:34:53 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-06 10:34:55 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-06 10:34:55 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-10 10:57:12 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:12 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:12 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-09-10 10:57:13 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-09-10 11:09:20 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-10 11:09:21 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-10 11:09:22 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-10 11:09:22 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-10 11:09:24 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-10 11:09:24 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-10 11:09:29 INFO  testCases.TC002_LoginTest - *********Starting TC002_LoginTest***********
+2024-09-10 11:09:30 INFO  testCases.TC002_LoginTest - *********Finished TC002_LoginTest***********
+2024-09-11 09:29:24 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-11 09:29:24 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-11 09:29:25 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-11 09:29:25 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-11 09:29:27 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-11 09:29:27 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-11 09:29:31 INFO  testCases.TC002_LoginTest - *********Starting TC002_LoginTest***********
+2024-09-11 09:29:33 INFO  testCases.TC002_LoginTest - *********Finished TC002_LoginTest***********
+2024-09-12 09:13:54 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-12 09:13:55 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-12 09:13:56 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-12 09:13:56 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-12 09:13:58 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-12 09:13:58 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-12 09:14:02 INFO  testCases.TC002_LoginTest - *********Starting TC002_LoginTest***********
+2024-09-12 09:14:04 INFO  testCases.TC002_LoginTest - *********Finished TC002_LoginTest***********
+2024-09-12 09:35:56 INFO  testCases.TC0001_AccountRegstrationTest - ******Starting TC0001_AccountRegstrationTest *********
+2024-09-12 09:35:56 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on My Account link
+2024-09-12 09:35:57 INFO  testCases.TC0001_AccountRegstrationTest - Clicked on Register link
+2024-09-12 09:35:57 INFO  testCases.TC0001_AccountRegstrationTest - Providing customer details
+2024-09-12 09:35:59 INFO  testCases.TC0001_AccountRegstrationTest - Validating error message
+2024-09-12 09:35:59 INFO  testCases.TC0001_AccountRegstrationTest - Finished TC0001_AccountRegstrationTest
+2024-09-12 09:36:03 INFO  testCases.TC002_LoginTest - *********Starting TC002_LoginTest***********
+2024-09-12 09:36:05 INFO  testCases.TC002_LoginTest - *********Finished TC002_LoginTest***********
